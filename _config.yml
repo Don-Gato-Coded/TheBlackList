@@ -3,10 +3,10 @@
 #
 
 # Name of your site
-name: Barry Clark - Getting Hired as a Web Developer
+title: The Blacklist
 
 # Short bio or description
-description: Hi, I&#39;m Barry Clark, a web developer from NYC. I write about web development and how to get hired.
+description: Internet Nomad - Pesonal blog to collect just about anything.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
@@ -27,6 +27,7 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: baznyc
+  threads: @elgatokjt
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -42,14 +43,14 @@ mailchimp:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.barryclark.co
-imagesurl: http://www.barryclark.co/images
+url: https://don-gato-coded.github.io/TheBlackList/
+imagesurl: https://don-gato-coded.github.io/TheBlackList/images
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/TheBlackList"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -68,7 +69,7 @@ sass:
   style: :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-redirect-from # Instead of 301 of alias redirects
