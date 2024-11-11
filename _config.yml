@@ -1,9 +1,9 @@
 #
 # This file contains configuration flags to customize your site
-#
+
 
 # Name of your site
-title: The Blacklist
+name: The Blacklist
 
 # Short bio or description
 description: Internet Nomad - Pesonal blog to collect just about anything.
@@ -18,15 +18,15 @@ avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: barry@barryclark.co
+  email: don.gato.coded@gmail.com
   facebook: 
   flickr: 
-  github: barryclark
+  github: Don-Gato-Coded
   instagram: 
-  linkedin: bazclark
+  linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: baznyc
+  twitter: miblanco4
 
 
 # Your disqus shortname, entering this will enable commenting on posts
