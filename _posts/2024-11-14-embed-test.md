@@ -1,5 +1,5 @@
 ---
-title: 'chromebook'
+title: 'embeded'
 author: Don Gato
 layout: post
 
